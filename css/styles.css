@@ -1,0 +1,186 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  color: gray;
+}
+
+h3 {
+  line-height: 1.5;
+
+  font-weight: bolder;
+}
+
+#title {
+  background-color: #ff4c68;
+  font-family: "Montserrat ", sans-serif;
+}
+
+#features {
+  background-color: azure;
+  padding: 2% 2% 2% 0%;
+  padding-bottom: 100px;
+  position: relative;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: azure;
+}
+
+#cta {
+  background-color: #ff4c68;
+  font-family: "Montserrat ", sans-serif;
+  text-align: center;
+}
+
+#press {
+  text-align: center;
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+#pricing {
+  text-align: center;
+  background-color: lavender;
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+#h {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+  font-size: 3.5rem;
+  color: whitesmoke;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 0px;
+}
+
+#h3 {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+  font-size: 3.5rem;
+  color: whitesmoke;
+  padding: 7% 15%;
+}
+
+#footer {
+  text-align: center;
+  background-color: aliceblue;
+  padding-bottom: 10px;
+  padding-top: 50px;
+}
+
+#container {
+  padding: 50px;
+}
+
+#img {
+  padding: 5% 7%;
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 1%;
+}
+
+#a1 {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 54px;
+  font-weight: bold;
+  padding-left: 0px;
+}
+
+#h2 {
+  line-height: 1.5;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+  font-size: 3rem;
+}
+
+#h22 {
+  line-height: 1.5;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+  font-size: 3rem;
+}
+
+#press {
+  text-align: center;
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+#h222 {
+  line-height: 1.5;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+  font-size: 3rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 18px;
+}
+
+#navbar {
+  padding-left: 0px;
+}
+
+.Download-button {
+  margin: 5% 3% 5% 0%;
+}
+
+.Download-img1 {
+  font-size: 40px;
+  color: #ef8172;
+  padding-top: 100px;
+}
+
+.Download-img1:hover {
+  color: crimson;
+}
+
+.testi-img {
+  margin: 20px;
+  width: 15%;
+  border-radius: 100%;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.press-img {
+  width: 15%;
+  margin: 0% 4% 0% 4%;
+}
+
+.pricing-col {
+  margin-top: 3%;
+}
+
+.Download-button1 {
+  margin: auto 2% 5% auto;
+}
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+  #img {
+    position: static;
+    transform: rotate(0);
+  }
+}
+div .a1{
+  color: white;
+}
+div .j1{
+  color: black;
+}
